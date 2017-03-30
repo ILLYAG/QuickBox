@@ -15,7 +15,7 @@ git clone --recursive https://github.com/QuickBox/QuickBox /etc/QuickBox
 ```
 
 ### [3]:
-update your current update function by doing the following:
+update your current update function by doing the following: 
 ```
 local_packages=/etc/QuickBox/packages/
 rm -rf /usr/local/bin/quickbox
