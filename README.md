@@ -1,6 +1,6 @@
 [![QuickBox](https://github.com/QuickBox/quickbox_github_assets/blob/master/img/quickbox2.png "QuickBox")](https://quickbox.io)
 
-### Join us on Gitter at [gitter.im/QuickBox](https://gitter.im/QuickBox/) !!!
+### Join us on our Chat Server at [chat.quickbox.io](https://chat.quickbox.io/) !!!
 
 
 ## To make use of the GitHub repo (all future updates posted here!)
